@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\etecvav\\downloads\\estruturarep\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Intervalo.cs",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Intervalo.cs",
+              "RelativeDocumentMoniker": "Intervalo.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Intervalo.cs",
+              "RelativeToolTip": "Intervalo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:08:52.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listagem,cs.cs",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Listagem,cs.cs",
+              "RelativeDocumentMoniker": "Listagem,cs.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Listagem,cs.cs",
+              "RelativeToolTip": "Listagem,cs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:24:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listagem,cs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Listagem,cs.cs",
+              "RelativeDocumentMoniker": "Listagem,cs.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Listagem,cs.cs [Design]",
+              "RelativeToolTip": "Listagem,cs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:10:19.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fatorial.cs",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Fatorial.cs",
+              "RelativeDocumentMoniker": "Fatorial.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Fatorial.cs",
+              "RelativeToolTip": "Fatorial.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:19:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Intervalo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Intervalo.cs",
+              "RelativeDocumentMoniker": "Intervalo.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Intervalo.cs [Design]",
+              "RelativeToolTip": "Intervalo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:11:49.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tabuada.cs",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Tabuada.cs",
+              "RelativeDocumentMoniker": "Tabuada.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Tabuada.cs",
+              "RelativeToolTip": "Tabuada.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:34:59.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tabuada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Tabuada.cs",
+              "RelativeDocumentMoniker": "Tabuada.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Tabuada.cs [Design]",
+              "RelativeToolTip": "Tabuada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T13:49:27.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fibonacci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Fibonacci.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Fibonacci.cs [Design]",
+              "RelativeToolTip": "Fibonacci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:08:11.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fatorial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Fatorial.cs",
+              "RelativeDocumentMoniker": "Fatorial.cs",
+              "ToolTip": "C:\\Users\\EtecVAV\\Downloads\\EstruturaRep\\Fatorial.cs [Design]",
+              "RelativeToolTip": "Fatorial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:07:02.52Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

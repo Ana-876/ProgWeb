@@ -1,0 +1,14 @@
+C:\Users\EtecVAV\Downloads\EstruturaRep\bin\Debug\EstruturaRep.exe.config
+C:\Users\EtecVAV\Downloads\EstruturaRep\bin\Debug\EstruturaRep.exe
+C:\Users\EtecVAV\Downloads\EstruturaRep\bin\Debug\EstruturaRep.pdb
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.csproj.AssemblyReference.cache
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.Fatorial.resources
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.Fibonacci.resources
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.Intervalo.resources
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.Listagem_cs.resources
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.Tabuada.resources
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.Properties.Resources.resources
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.csproj.GenerateResource.cache
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.csproj.CoreCompileInputs.cache
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.exe
+C:\Users\EtecVAV\Downloads\EstruturaRep\obj\Debug\EstruturaRep.pdb
